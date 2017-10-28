@@ -1,0 +1,7 @@
+module libsass [system] {
+    
+    header "shim.h"
+    link "sass"
+    export *
+    
+}
